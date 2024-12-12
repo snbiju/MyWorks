@@ -1,0 +1,12 @@
+
+Y
+java:S1854M"7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ8ã‰åßÎ0
+J
+java:S1481M"(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ8ä‰åßÎ0
+`
+java:S1659h">Declare "j" and all following declarations on a separate line.(Ìá¡†üÿÿÿÿ8é‰åßÎ0
+L
+java:S1197g"*Move the array designators [] to the type.(ÈıªÕùÿÿÿÿ8é‰åßÎ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îÆÊŸ8ì‰åßÎ0
+R
+java:S2209"5Change this instance-reference to a static reference.(îÆÊŸ8í‰åßÎ0

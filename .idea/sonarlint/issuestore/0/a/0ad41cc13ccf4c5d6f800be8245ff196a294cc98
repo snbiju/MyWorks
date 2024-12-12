@@ -1,0 +1,8 @@
+
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Üø‡¹ıÿÿÿÿ8³ÌÄÓğ1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8ÂÌÄÓğ1
+L	java:S106""+Replace this use of System.out by a logger.(³Öô¸üÿÿÿÿ8ÆÌÄÓğ1
+G	java:S106#"+Replace this use of System.out by a logger.(Óéº†8ÇÌÄÓğ1
+L	java:S106$"+Replace this use of System.out by a logger.(êÍËïøÿÿÿÿ8ÇÌÄÓğ1

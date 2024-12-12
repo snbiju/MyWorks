@@ -1,0 +1,10 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ã‰8ÿŸÊñ†2
+`
+java:S1854K">Remove this useless assignment to local variable "topStudent".(©ñóóýÿÿÿÿ8’ Êñ†2
+\
+java:S62139":Rename this variable to not match a restricted identifier.(Àì¬¤ùÿÿÿÿ8” Êñ†2
+L
+java:S1481@"/Remove this unused "topStudent" local variable.(Æ½ô†8• Êñ†2
+G	java:S106W"+Replace this use of System.out by a logger.(Æ¼ù¡8˜ Êñ†2
+L	java:S106X"+Replace this use of System.out by a logger.(’Ã¨¡úÿÿÿÿ8ŽñÊñ†2

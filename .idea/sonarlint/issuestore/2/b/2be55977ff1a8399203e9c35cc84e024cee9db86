@@ -1,0 +1,19 @@
+
+Q
+java:S3740J"/Provide the parametrized type for this generic.(ŸÉ…üÿÿÿÿ8İÊÄÓğ1
+{
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¸şÿÿÿÿ8àÊÄÓğ1
+K
+java:S5413?")Verify that "remove()" is used correctly.(¿Êè€şÿÿÿÿ8–ÌÄÓğ1
+H
+java:S1481L"&Remove this unused "b" local variable.(•Â¶ñıÿÿÿÿ8™ÌÄÓğ1
+]	java:S125N"<This block of commented-out lines of code should be removed.(×ÒÒúÿÿÿÿ8™ÌÄÓğ1
+\
+java:S1854†"9Remove this useless assignment to local variable "array".(àÈİÜúÿÿÿÿ8›ÌÄÓğ1
+Y	java:S125…"<This block of commented-out lines of code should be removed.(ã“×Æ8ÌÄÓğ1
+M
+java:S1481†"*Remove this unused "array" local variable.(àÈİÜúÿÿÿÿ8ÌÄÓğ1
+X	java:S125‡"<This block of commented-out lines of code should be removed.(€¢ÿf8ÌÄÓğ1
+M	java:S106Œ"+Replace this use of System.out by a logger.(¾ùê¤üÿÿÿÿ8ŸÌÄÓğ1
+H	java:S106"+Replace this use of System.out by a logger.(Ù©È±8 ÌÄÓğ1
+M	java:S106’"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8 ÌÄÓğ1

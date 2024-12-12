@@ -1,0 +1,7 @@
+
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ã‰8‰œ¿1
+_
+java:S1659G"CDeclare "colSum" and all following declarations on a separate line.(±¤Ík8ìœ¿1
+X	java:S125a"<This block of commented-out lines of code should be removed.(½Ş¾ä8Š—×‘¿1
+L	java:S106e"+Replace this use of System.out by a logger.(ÑÁ¨ùÿÿÿÿ8ğâœ¿1
+X	java:S125c"<This block of commented-out lines of code should be removed.(–§±±8€Ò×‘¿1

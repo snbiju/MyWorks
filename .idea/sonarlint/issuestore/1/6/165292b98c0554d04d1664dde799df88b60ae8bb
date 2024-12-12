@@ -1,0 +1,25 @@
+
+h
+java:S1192\"FDefine a constant instead of duplicating this literal "%.6f
+" 4 times.( ó›‚ÿÿÿÿÿ8İŸ³†å1
+^
+java:S1854G"BRemove this useless assignment to local variable "zeroProportion".(ê³’58‘ ³†å1
+c
+java:S1854F"FRemove this useless assignment to local variable "negativeProportion".(†šËù8‘ ³†å1
+b
+java:S1854E"ERemove this useless assignment to local variable "postiveProportion".(ÁÙÿ8‘ ³†å1
+G	java:S106X"+Replace this use of System.out by a logger.(ïğÊÂ8˜ ³†å1
+L	java:S106Y"+Replace this use of System.out by a logger.(ÙµøÔıÿÿÿÿ8˜ ³†å1
+L	java:S106Z"+Replace this use of System.out by a logger.(êö¦åıÿÿÿÿ8˜ ³†å1
+s
+java:S3457\"Q%n should be used in place of \n to produce the platform-specific line separator.( ó›‚ÿÿÿÿÿ8™ ³†å1
+L	java:S106\"+Replace this use of System.out by a logger.( ó›‚ÿÿÿÿÿ8™ ³†å1
+s
+java:S3457]"Q%n should be used in place of \n to produce the platform-specific line separator.(Üò¼şûÿÿÿÿ8š ³†å1
+L	java:S106]"+Replace this use of System.out by a logger.(Üò¼şûÿÿÿÿ8š ³†å1
+n
+java:S3457^"Q%n should be used in place of \n to produce the platform-specific line separator.(œÓÃØ8š ³†å1
+G	java:S106^"+Replace this use of System.out by a logger.(œÓÃØ8š ³†å1
+n
+java:S3457_"Q%n should be used in place of \n to produce the platform-specific line separator.(œÓÃØ8š ³†å1
+G	java:S106_"+Replace this use of System.out by a logger.(œÓÃØ8š ³†å1

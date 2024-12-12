@@ -1,0 +1,16 @@
+
+L
+java:S3740 "/Provide the parametrized type for this generic.(ş™å8õ²Úáä1
+h
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(¥ƒÂØ8ö²Úáä1
+g
+java:S2259""EA "NullPointerException" could be thrown; "persons" is nullable here.(½õ¸ÿÿÿÿÿ8ƒ³Úáä1
+]	java:S125"<This block of commented-out lines of code should be removed.(ö†™Ãşÿÿÿÿ8‡³Úáä1
+N
+java:S1602$",Remove useless curly braces around statement(õÒøıÿÿÿÿ8‰³Úáä1
+h	java:S1283"LEnd this switch case with an unconditional break, return or throw statement.(É„ìË8‰³Úáä1
+>	java:S1312""Add a default case to this switch.(¥ƒÂØ8‰³Úáä1
+G	java:S1069"+Replace this use of System.out by a logger.(ä•‚8Š³Úáä1
+G	java:S106:"+Replace this use of System.out by a logger.(œÃšÉ8Š³Úáä1
+L	java:S106;"+Replace this use of System.out by a logger.(ÚÆ„Õşÿÿÿÿ8Š³Úáä1
+]	java:S125C"<This block of commented-out lines of code should be removed.(ô²¦¬úÿÿÿÿ8³Úáä1

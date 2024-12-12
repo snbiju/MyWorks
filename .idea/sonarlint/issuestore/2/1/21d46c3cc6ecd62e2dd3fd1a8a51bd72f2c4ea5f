@@ -1,0 +1,10 @@
+
+r	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ƒçÀùÿÿÿÿ8šÊÄÓğ1
+X	java:S125"<This block of commented-out lines of code should be removed.(¬ÙÅŠ8¹ÊÄÓğ1
+]	java:S125/"<This block of commented-out lines of code should be removed.(Î‘ éúÿÿÿÿ8½ÊÄÓğ1
+]	java:S1252"<This block of commented-out lines of code should be removed.(€“ªµıÿÿÿÿ8½ÊÄÓğ1
+G	java:S106I"+Replace this use of System.out by a logger.(Ë›²î8ÀÊÄÓğ1
+L	java:S106J"+Replace this use of System.out by a logger.(Ü¹»ìüÿÿÿÿ8ÁÊÄÓğ1
+L	java:S106K"+Replace this use of System.out by a logger.(´‰÷úÿÿÿÿ8ÁÊÄÓğ1
+L
+java:S11445"0Remove this unused private "intToBinary" method.(ùç‰g8ÂÊÄÓğ1

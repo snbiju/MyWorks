@@ -1,0 +1,12 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ
+s	java:S135)"YReduce the total number of break and continue statements in this loop to use at most one.(οÿÿÿÿÿ
+Q
+java:S2222S";Unlock this lock along all executions paths of this method.(€†§†
+Q
+java:S2222L";Unlock this lock along all executions paths of this method.(Ò¨­
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(σανωϋÿÿÿÿ
+t
+java:S2142E"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€
+t
+java:S2142M"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(δ Ή€

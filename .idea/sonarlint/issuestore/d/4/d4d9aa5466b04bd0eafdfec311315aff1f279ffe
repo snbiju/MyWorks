@@ -1,0 +1,15 @@
+
+_
+java:S2094
+"BRemove this empty class, write its code or make it an "interface".(‡¨˜ô8øÅÚõò1
+]	java:S125"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ8ÿÅÚõò1
+d
+java:S1128"HRemove this unused import 'org.apache.catalina.session.StandardSession'.(Ë€È28‚ÆÚõò1
+X
+java:S1128";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8ƒÆÚõò1
+B
+java:S1128"%Remove this unused import 'java.sql'.(´İ…Å8ƒÆÚõò1
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8„ÆÚõò1
+T
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8„ÆÚõò1

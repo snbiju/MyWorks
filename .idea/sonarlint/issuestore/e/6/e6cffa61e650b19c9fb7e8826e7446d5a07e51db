@@ -1,0 +1,78 @@
+
+n
+java:S1192Ö"KDefine a constant instead of duplicating this literal "Manchester" 8 times.(±‡ıÿÿÿÿ8şÔã”½1
+e
+java:S1192Â"GDefine a constant instead of duplicating this literal "London" 8 times.(¦‰ãÒ8ÿÔã”½1
+s	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îˆñ¸øÿÿÿÿ8ÿÔã”½1
+s	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»‹Ãøÿÿÿÿ8ÿÔã”½1
+‡
+java:S1488ì"dImmediately return this expression instead of assigning it to the temporary variable "new_latitude".(Îˆñ¸øÿÿÿÿ8€Õã”½1
+ˆ
+java:S1488ó"eImmediately return this expression instead of assigning it to the temporary variable "new_longitude".(»‹Ãøÿÿÿÿ8€Õã”½1
+]
+java:S1854Q";Remove this useless assignment to local variable "latitu1".(Â»Û™úÿÿÿÿ8¬Õã”½1
+X
+java:S1854S"6Remove this useless assignment to local variable "fl".(ÚìÉ§ıÿÿÿÿ8¬Õã”½1
+Z
+java:S1854€"=Remove this useless assignment to local variable "shopsMap1".(ãŸ©8­Õã”½1
+V
+java:S1854Ÿ"8Remove this useless assignment to local variable "lon3".(áäÔ8­Õã”½1
+[
+java:S1854"8Remove this useless assignment to local variable "lat3".(ò¸ĞÜÿÿÿÿÿ8­Õã”½1
+[
+java:S1854›"8Remove this useless assignment to local variable "lon2".(„›ë¶øÿÿÿÿ8­Õã”½1
+V
+java:S1854š"8Remove this useless assignment to local variable "lat2".(ˆ–»¶8­Õã”½1
+I
+java:S1481S"'Remove this unused "fl" local variable.(ÚìÉ§ıÿÿÿÿ8±Õã”½1
+X	java:S125U"<This block of commented-out lines of code should be removed.(ô°ô8±Õã”½1
+L	java:S106e"+Replace this use of System.out by a logger.(™¶âÖûÿÿÿÿ8±Õã”½1
+L	java:S106f"+Replace this use of System.out by a logger.(Ìã„øÿÿÿÿ8²Õã”½1
+L	java:S106i"+Replace this use of System.out by a logger.(™¶âÖûÿÿÿÿ8²Õã”½1
+L	java:S106k"+Replace this use of System.out by a logger.(Ù¶öùÿÿÿÿ8²Õã”½1
+G	java:S106n"+Replace this use of System.out by a logger.(Ä”Ò§8³Õã”½1
+\
+java:S1612r":Replace this lambda with method reference 'Entry::getKey'.(Å™”ùıÿÿÿÿ8·Õã”½1
+^
+java:S1612r"<Replace this lambda with method reference 'Entry::getValue'.(Å™”ùıÿÿÿÿ8·Õã”½1
+t
+java:S6204w"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œË¬ıÿÿÿÿ8¸Õã”½1
+L	java:S106|"+Replace this use of System.out by a logger.(–šÌµûÿÿÿÿ8ºÕã”½1
+K
+java:S1481€".Remove this unused "shopsMap1" local variable.(ãŸ©8¼Õã”½1
+p
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(±Šäâ8¾Õã”½1
+X
+java:S1612":Replace this lambda with method reference 'Entry::getKey'.(±Šäâ8¿Õã”½1
+M	java:S106"+Replace this use of System.out by a logger.(ì©½ùÿÿÿÿ8¿Õã”½1
+Y	java:S125’"<This block of commented-out lines of code should be removed.(Èáˆæ8ÀÕã”½1
+H	java:S106–"+Replace this use of System.out by a logger.(æÓƒÉ8ÀÕã”½1
+^	java:S125—"<This block of commented-out lines of code should be removed.(Ò€¹…ûÿÿÿÿ8ÁÕã”½1
+G
+java:S1481š")Remove this unused "lat2" local variable.(ˆ–»¶8ÂÕã”½1
+L
+java:S1481›")Remove this unused "lon2" local variable.(„›ë¶øÿÿÿÿ8ÂÕã”½1
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(ùÂï¿8ÂÕã”½1
+L
+java:S1481")Remove this unused "lat3" local variable.(ò¸ĞÜÿÿÿÿÿ8ÂÕã”½1
+G
+java:S1481Ÿ")Remove this unused "lon3" local variable.(áäÔ8ÂÕã”½1
+^	java:S125¢"<This block of commented-out lines of code should be removed.(‰Ç¯üÿÿÿÿ8ÃÕã”½1
+I
+java:S1481§"&Remove this unused "s" local variable.(˜ˆÕşÿÿÿÿ8ÃÕã”½1
+^	java:S125©"<This block of commented-out lines of code should be removed.(Ñå§öüÿÿÿÿ8ÃÕã”½1
+^	java:S125®"<This block of commented-out lines of code should be removed.(×ï‹Äÿÿÿÿÿ8ÃÕã”½1
+Y	java:S125²"<This block of commented-out lines of code should be removed.(Åîñ­8ÃÕã”½1
+p
+java:S6204¶"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ú“¸8ÃÕã”½1
+p
+java:S6204µ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„Ç¨Õ8ÄÕã”½1
+X
+java:S1612¶":Replace this lambda with method reference 'Entry::getKey'.(ú“¸8ÅÕã”½1
+L
+java:S1481·")Remove this unused "shop" local variable.(¹É½µøÿÿÿÿ8ÆÕã”½1
+^	java:S125¹"<This block of commented-out lines of code should be removed.(ëÛÜ£ùÿÿÿÿ8ÆÕã”½1
+]
+java:S1128"@Remove this unused import 'javax.swing.text.html.parser.Entity'.(Û‡Ğ‘8ÏÕã”½1
+O
+java:S1144#"-Remove this unused private "distance" method.(ü³Şğıÿÿÿÿ8ÏÕã”½1

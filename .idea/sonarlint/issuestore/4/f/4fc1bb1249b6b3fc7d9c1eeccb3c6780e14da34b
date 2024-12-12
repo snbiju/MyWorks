@@ -1,0 +1,30 @@
+
+s	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àËÀøÿÿÿÿÿ8Ğæ²Â‡2
+n	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¾é8Ñæ²Â‡2
+n	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¾é8Ñæ²Â‡2
+n	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í°”Æ8Ñæ²Â‡2
+n	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ÂØ„8Ñæ²Â‡2
+n	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åßøé8Ñæ²Â‡2
+H
+java:S1659v"&Declare "maxRight" on a separate line.(Úİ£ÿÿÿÿÿ8£È¸æ‡2
+A
+java:S1659ˆ"#Declare "right" on a separate line.(¹æší8¤È¸æ‡2
+E
+java:S1659‰"'Declare "right_max" on a separate line.(ò¾é8¥È¸æ‡2
+X
+java:S2209İ"5Change this instance-reference to a static reference.(›ı‹İúÿÿÿÿ8¨È¸æ‡2
+M	java:S106Ş"+Replace this use of System.out by a logger.(ü¤şĞøÿÿÿÿ8ƒç²Â‡2
+X
+java:S2209á"5Change this instance-reference to a static reference.(—À‰ˆúÿÿÿÿ8©È¸æ‡2
+H	java:S106â"+Replace this use of System.out by a logger.(Ûé²‚8©È¸æ‡2
+H	java:S106ï"+Replace this use of System.out by a logger.(§ŞÄ8©È¸æ‡2
+H	java:S106ğ"+Replace this use of System.out by a logger.(‹¥í÷8©È¸æ‡2
+M	java:S106ô"+Replace this use of System.out by a logger.(Ú»œÊúÿÿÿÿ8ªÈ¸æ‡2
+H	java:S106õ"+Replace this use of System.out by a logger.(¦åÎÖ8ªÈ¸æ‡2
+M	java:S106ş"+Replace this use of System.out by a logger.(·Ñçıÿÿÿÿ8«È¸æ‡2
+M	java:S106ÿ"+Replace this use of System.out by a logger.(¨÷İÈúÿÿÿÿ8«È¸æ‡2
+M	java:S106ƒ"+Replace this use of System.out by a logger.( ¯è®øÿÿÿÿ8«È¸æ‡2
+M	java:S106†"+Replace this use of System.out by a logger.(ïª¡Ëıÿÿÿÿ8¬È¸æ‡2
+M	java:S106‡"+Replace this use of System.out by a logger.(Ú•ÓÅüÿÿÿÿ8×Á»æ‡2
+M	java:S106Š"+Replace this use of System.out by a logger.(¬¤›áüÿÿÿÿ8‚¾æ‡2
+M	java:S106"+Replace this use of System.out by a logger.(–Ò¢Šøÿÿÿÿ8ªÀæ‡2

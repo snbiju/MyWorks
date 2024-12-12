@@ -1,0 +1,8 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ã‰
+c
+java:S1126D"AReplace this if-then-else statement by a single return statement.(ÜÿÖ¹şÿÿÿÿ8÷Ğƒ’2
+G	java:S106U"+Replace this use of System.out by a logger.(êØŒª8õÂ¯ØÁ1
+]	java:S125S"<This block of commented-out lines of code should be removed.(ªå··şÿÿÿÿ8©«í­”2
+J
+java:S1144;"-Remove this unused private "findLoop" method.(ÚÜ²8¸Ì„’2

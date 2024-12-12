@@ -1,0 +1,9 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÑÚ¡„8ù¯¿½1
+G	java:S106"+Replace this use of System.out by a logger.(¢àóÄ8ü¯¿½1
+L	java:S106""+Replace this use of System.out by a logger.(ÇÒ“ıÿÿÿÿ8ı¯¿½1
+L	java:S1060"+Replace this use of System.out by a logger.(ÇÒ“ıÿÿÿÿ8ı¯¿½1
+Z
+java:S1144
+"8Remove this unused private "convertNumberToWord" method.(£ğ‹íøÿÿÿÿ8ı¯¿½1

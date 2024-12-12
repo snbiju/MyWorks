@@ -1,0 +1,17 @@
+
+]
+java:S1854e";Remove this useless assignment to local variable "server0".(àô êüÿÿÿÿ8ŒÂ„úŞ1
+W
+java:S1854d":Remove this useless assignment to local variable "server".(õä²Ï8›”—š´1
+W
+java:S1854c"5Remove this useless assignment to local variable "n".(ù›æ¾ıÿÿÿÿ8›”—š´1
+H
+java:S1481c"&Remove this unused "n" local variable.(ù›æ¾ıÿÿÿÿ8œ”—š´1
+H
+java:S1481d"+Remove this unused "server" local variable.(õä²Ï8”—š´1
+N
+java:S1481e",Remove this unused "server0" local variable.(àô êüÿÿÿÿ8ŒÂ„úŞ1
+G	java:S106n"+Replace this use of System.out by a logger.( öêÂ8“Ã‘š´1
+]	java:S125j"<This block of commented-out lines of code should be removed.(¿à„ïûÿÿÿÿ8Â„úŞ1
+G	java:S106o"+Replace this use of System.out by a logger.(Æõˆç8“Ã‘š´1
+G	java:S106p"+Replace this use of System.out by a logger.(‚ğ€8Â„úŞ1

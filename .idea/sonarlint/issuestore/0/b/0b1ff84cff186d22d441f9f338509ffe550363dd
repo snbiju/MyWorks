@@ -1,0 +1,20 @@
+
+h
+java:S1192{"FDefine a constant instead of duplicating this literal "mouse" 4 times.(ÃÑÑ¹úÿÿÿÿ8ù¶Ò×‚2
+m	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ı„ü8û¶Ò×‚2
+m	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ı„ü8û¶Ò×‚2
+r	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×şÕ¯øÿÿÿÿ8û¶Ò×‚2
+r	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×şÕ¯øÿÿÿÿ8û¶Ò×‚2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃŞÕ8“ºÒ×‚2
+E
+java:S1659T"#Declare "right" on a separate line.(‹è”Óùÿÿÿÿ8ÃÓÒ×‚2
+@
+java:S1659d"#Declare "right" on a separate line.(”…ã©8ÈÓÒ×‚2
+`
+java:S1854„"=Remove this useless assignment to local variable "product05".(¶‡êîüÿÿÿÿ8ÍÓÒ×‚2
+G	java:S106w"+Replace this use of System.out by a logger.(ÔÖàà8ÎÓÒ×‚2
+G	java:S106"+Replace this use of System.out by a logger.(®ìí8ĞÓÒ×‚2
+H	java:S106"+Replace this use of System.out by a logger.(ÎÁƒ8ÑÓÒ×‚2
+Q
+java:S1481„".Remove this unused "product05" local variable.(¶‡êîüÿÿÿÿ8ÓÓÒ×‚2
+^	java:S125’"<This block of commented-out lines of code should be removed.(ôÅ‘÷üÿÿÿÿ8ÔÓÒ×‚2

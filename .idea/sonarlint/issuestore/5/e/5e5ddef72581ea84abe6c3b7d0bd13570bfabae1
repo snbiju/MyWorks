@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(å¤©½8ÍñÇÀò1
+L	java:S106"+Replace this use of System.out by a logger.(ùà üÿÿÿÿ8ÍñÇÀò1
+G	java:S106"+Replace this use of System.out by a logger.(šôğ›8ÎñÇÀò1
+[
+java:S1128">Remove this unused import 'java.nio.charset.StandardCharsets'.(ï˜ŞÛ8Æ®÷Àò1

@@ -1,0 +1,4 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ë€ùñ8²‡Ü¯¿1
+t	java:S116"XRename this field "OUT_OFF_RANGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ü¾ë8à‡Ü¯¿1
+r	java:S116"VRename this field "ONE_HUNDRED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç×¥é8à‡Ü¯¿1

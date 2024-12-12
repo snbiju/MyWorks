@@ -1,0 +1,14 @@
+
+t
+java:S1192B"RDefine a constant instead of duplicating this literal "Original String: " 4 times.(ûìõŒüÿÿÿÿ8Ôİèê½1
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8û÷©ê½1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÆíÑùùÿÿÿÿ8ÿ±«ê½1
+L	java:S106B"+Replace this use of System.out by a logger.(ûìõŒüÿÿÿÿ8ƒ‰ºê½1
+G	java:S106C"+Replace this use of System.out by a logger.(äš Ô8”úÊê½1
+G	java:S106F"+Replace this use of System.out by a logger.(üÍœÇ8ä•æê½1
+G	java:S106G"+Replace this use of System.out by a logger.(ÜÁ”Ö8¡Şèê½1
+L	java:S106I"+Replace this use of System.out by a logger.(ñÌÏ¦ûÿÿÿÿ8¢Şèê½1
+G	java:S106J"+Replace this use of System.out by a logger.(ãŠÈê8¢Şèê½1
+L	java:S106N"+Replace this use of System.out by a logger.(Ûõ¢ÿüÿÿÿÿ8­¯éê½1
+G	java:S106O"+Replace this use of System.out by a logger.(¿óƒı8òéê½1

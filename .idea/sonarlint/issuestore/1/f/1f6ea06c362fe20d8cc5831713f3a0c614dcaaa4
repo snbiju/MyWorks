@@ -1,0 +1,7 @@
+
+
+java:S1319‡"mThe return type of this method should be an interface such as "Set" rather than the implementation "HashSet".(—”şşÿÿÿÿ8ï¬Æ²å1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìç“üÿÿÿÿ8Ò½²å1
+]	java:S1256"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ8¦Æ²å1
+G	java:S106u"+Replace this use of System.out by a logger.(–Š®†8­Æ²å1
+G	java:S106v"+Replace this use of System.out by a logger.(Şô‹½8­Æ²å1

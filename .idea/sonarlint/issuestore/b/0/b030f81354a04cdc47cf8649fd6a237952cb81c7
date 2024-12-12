@@ -1,0 +1,19 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ê›—ğ8–œŒ¿½1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(å§Û‘øÿÿÿÿ8—œŒ¿½1
+W
+java:S1854"5Remove this useless assignment to local variable "j".(§¥øşÿÿÿÿ8—œŒ¿½1
+[
+java:S1854?"9Remove this useless assignment to local variable "total".(¨â´€ÿÿÿÿÿ8—œŒ¿½1
+A
+java:S1659"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ8™œŒ¿½1
+M
+java:S1481"+Remove this unused "broken" local variable.(ï¢ĞÚÿÿÿÿÿ8šœŒ¿½1
+X	java:S125+"<This block of commented-out lines of code should be removed.(š¦ Û8›œŒ¿½1
+X	java:S125;"<This block of commented-out lines of code should be removed.(—ÿ‘8œœŒ¿½1
+L
+java:S1481?"*Remove this unused "total" local variable.(¨â´€ÿÿÿÿÿ8œœŒ¿½1
+S
+java:S1144"1Remove this unused private "almostSorted" method.(å§Û‘øÿÿÿÿ8œœŒ¿½1

@@ -1,0 +1,12 @@
+
+k
+java:S1149#"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ
+W
+java:S1854I"<Remove this useless assignment to local variable "heights2".(Œ›äõþÿÿÿÿ
+H
+java:S1481I"-Remove this unused "heights2" local variable.(Œ›äõþÿÿÿÿ
+E	java:S106J"+Replace this use of System.out by a logger.(¤îÜùÿÿÿÿ
+@	java:S106N"+Replace this use of System.out by a logger.(šÊÑ‘
+Q	java:S125K"<This block of commented-out lines of code should be removed.(ÜûªÝ
+@	java:S106O"+Replace this use of System.out by a logger.(¼¿ÐÉ
+V	java:S125P"<This block of commented-out lines of code should be removed.(©û­œøÿÿÿÿ

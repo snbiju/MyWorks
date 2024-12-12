@@ -1,0 +1,29 @@
+
+K
+java:S3740Z"/Provide the parametrized type for this generic.(ĞÃáN8Á‹¾”2
+K
+java:S3740Z"/Provide the parametrized type for this generic.(ĞÃáN8Á‹¾”2
+Q
+java:S3740\"/Provide the parametrized type for this generic.(Â¡úÿÿÿÿ8Á‹¾”2
+M
+java:S3740€"/Provide the parametrized type for this generic.(ˆ§™÷8Â‹¾”2
+
+java:S1319Z"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ĞÃáN8Â‹¾”2
+„
+java:S1319Z"hThe type of "planets" should be an interface such as "List" rather than the implementation "LinkedList".(ĞÃáN8Â‹¾”2
+W	java:S125"<This block of commented-out lines of code should be removed.(»Äğ18Ô‹¾”2
+X	java:S125"<This block of commented-out lines of code should be removed.(—ĞØä8Ô‹¾”2
+X	java:S125"<This block of commented-out lines of code should be removed.(½Ê¤¬8Ô‹¾”2
+X	java:S1256"<This block of commented-out lines of code should be removed.(·Šœğ8Ô‹¾”2
+]	java:S125A"<This block of commented-out lines of code should be removed.(ú›Šøøÿÿÿÿ8Ô‹¾”2
+L	java:S106e"+Replace this use of System.out by a logger.(ñÿÙéøÿÿÿÿ8×‹¾”2
+B
+java:S2129e" Remove this "String" constructor(ñÿÙéøÿÿÿÿ8Ú‹¾”2
+G	java:S106h"+Replace this use of System.out by a logger.(¼®¨è8Ú‹¾”2
+=
+java:S2129h" Remove this "String" constructor(¼®¨è8Ú‹¾”2
+L	java:S106k"+Replace this use of System.out by a logger.(–éÁ÷ÿÿÿÿÿ8Û‹¾”2
+B
+java:S2129k" Remove this "String" constructor(–éÁ÷ÿÿÿÿÿ8Û‹¾”2
+M	java:S106‡"+Replace this use of System.out by a logger.(²¤Ùğúÿÿÿÿ8İ‹¾”2
+M	java:S106‰"+Replace this use of System.out by a logger.(«â‡§şÿÿÿÿ8Ş‹¾”2

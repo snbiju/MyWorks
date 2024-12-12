@@ -1,0 +1,11 @@
+
+x
+java:S1488 "[Immediately return this expression instead of assigning it to the temporary variable "sum".(Æ˜²Æ8°ÁÄà2
+F	java:S106
+"+Replace this use of System.out by a logger.(—³Ù8ãµà2
+L	java:S106"+Replace this use of System.out by a logger.(ÔÓ¤úÿÿÿÿ8è¶à2
+]	java:S125"<This block of commented-out lines of code should be removed.(ï†Ùûÿÿÿÿ8ìµ´à2
+o
+java:S6204$"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(í¦àô8îµ´à2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¾ÁÄà2

@@ -1,0 +1,9 @@
+
+W
+java:S2259"AA "NullPointerException" could be thrown; "obj" is nullable here.(©йЂЧ
+f
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ЌЬСг
+5
+java:S2097"Add a type test to this method.(ЌЬСг
+C
+java:S1068"-Remove this unused "firstName" private field.(љ„¦ї

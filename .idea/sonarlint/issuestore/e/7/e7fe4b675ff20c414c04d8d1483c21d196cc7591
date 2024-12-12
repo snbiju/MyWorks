@@ -1,0 +1,11 @@
+
+k
+java:S1192"IDefine a constant instead of duplicating this literal " value: " 3 times.(‚‰¯öşÿÿÿÿ8Ô…¾¡¤2
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Key: " 3 times.(‚‰¯öşÿÿÿÿ8Õ…¾¡¤2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìç“üÿÿÿÿ8Õ…¾¡¤2
+L	java:S106"+Replace this use of System.out by a logger.(‚‰¯öşÿÿÿÿ8İ…¾¡¤2
+L	java:S106"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8Ş…¾¡¤2
+G	java:S106"+Replace this use of System.out by a logger.(ºÁ’½8ß…¾¡¤2
+L	java:S106#"+Replace this use of System.out by a logger.(ÕÇÕûÿÿÿÿ8à…¾¡¤2
+G	java:S106%"+Replace this use of System.out by a logger.(•¬ÈÄ8à…¾¡¤2

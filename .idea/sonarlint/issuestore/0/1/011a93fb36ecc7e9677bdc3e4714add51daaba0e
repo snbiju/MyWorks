@@ -1,0 +1,15 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÛÛ¯ø8¿•Â½1
+A
+java:S1659!"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ8Á•Â½1
+L	java:S106'"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8Â•Â½1
+L	java:S106)"+Replace this use of System.out by a logger.(å‡ëÇøÿÿÿÿ8Â•Â½1
+L	java:S106."+Replace this use of System.out by a logger.(å‡ëÇøÿÿÿÿ8Ã•Â½1
+L	java:S1060"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8Ã•Â½1
+L	java:S1062"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ã•Â½1
+L	java:S106;"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8Ã•Â½1
+L	java:S106="+Replace this use of System.out by a logger.(å‡ëÇøÿÿÿÿ8Ä•Â½1
+L	java:S106C"+Replace this use of System.out by a logger.(å‡ëÇøÿÿÿÿ8Ä•Â½1
+L	java:S106E"+Replace this use of System.out by a logger.(‹µ‹¶ıÿÿÿÿ8Ä•Â½1
+L	java:S106G"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ä•Â½1

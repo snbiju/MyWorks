@@ -1,0 +1,69 @@
+
+k
+java:S1192&"ODefine a constant instead of duplicating this literal " minutes past " 3 times.(½œŞ8„ƒ×§á1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "seven" 3 times.(¬‡”Áÿÿÿÿÿ8…ƒ×§á1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "three" 3 times.(¬‡”Áÿÿÿÿÿ8…ƒ×§á1
+f
+java:S1192"IDefine a constant instead of duplicating this literal "thirteen" 3 times.(ÃŠƒí8…ƒ×§á1
+h
+java:S1192"FDefine a constant instead of duplicating this literal "eight" 3 times.(¬‡”Áÿÿÿÿÿ8…ƒ×§á1
+m
+java:S1192"KDefine a constant instead of duplicating this literal "half past " 3 times.(†À¶ıÿÿÿÿ8…ƒ×§á1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "sixteen" 3 times.(ÃŠƒí8…ƒ×§á1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "twenty" 3 times.(˜ò¹ºúÿÿÿÿ8…ƒ×§á1
+f
+java:S1192$"IDefine a constant instead of duplicating this literal " minutes" 4 times.(˜´‚®8…ƒ×§á1
+e
+java:S1192"HDefine a constant instead of duplicating this literal "fifteen" 3 times.(ÃŠƒí8…ƒ×§á1
+l
+java:S1192"JDefine a constant instead of duplicating this literal " o' clock" 3 times.(àúıßûÿÿÿÿ8…ƒ×§á1
+k
+java:S1192"IDefine a constant instead of duplicating this literal "nineteen" 3 times.(˜ò¹ºúÿÿÿÿ8…ƒ×§á1
+f
+java:S1192"IDefine a constant instead of duplicating this literal "eighteen" 3 times.(ÃŠƒí8…ƒ×§á1
+d
+java:S1192&"HDefine a constant instead of duplicating this literal "twenty " 3 times.(½œŞ8…ƒ×§á1
+n
+java:S1192"LDefine a constant instead of duplicating this literal "quarter to " 3 times.(÷Öªûÿÿÿÿ8…ƒ×§á1
+k
+java:S1192"NDefine a constant instead of duplicating this literal "quarter past " 3 times.(’–¹ö8…ƒ×§á1
+f
+java:S1192"IDefine a constant instead of duplicating this literal "fourteen" 3 times.(ÃŠƒí8…ƒ×§á1
+i
+java:S1192-"MDefine a constant instead of duplicating this literal " minutes to " 4 times.(«Øè%8…ƒ×§á1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "seventeen" 3 times.(ÃŠƒí8…ƒ×§á1
+e
+java:S1192$"HDefine a constant instead of duplicating this literal " minute" 4 times.(˜´‚®8†ƒ×§á1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "twelve" 3 times.(ÃŠƒí8†ƒ×§á1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "eleven" 3 times.(ÃŠƒí8†ƒ×§á1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(­ä¿Ø8™ƒ×§á1
+o
+java:S37762"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(îÒºæ8šƒ×§á1
+]	java:S125H"<This block of commented-out lines of code should be removed.(àŸ˜ıÿÿÿÿ8›ƒ×§á1
+t
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÙİºÙÿÿÿÿÿ8›ƒ×§á1
+Y
+java:S1854p"7Remove this useless assignment to local variable "rmn".(ÎÂÒ¨úÿÿÿÿ8œƒ×§á1
+Y
+java:S1854"7Remove this useless assignment to local variable "rmn".(ÎÂÒ¨úÿÿÿÿ8œƒ×§á1
+J
+java:S1481p"(Remove this unused "rmn" local variable.(ÎÂÒ¨úÿÿÿÿ8ƒ×§á1
+J
+java:S1481"(Remove this unused "rmn" local variable.(ÎÂÒ¨úÿÿÿÿ8ƒ×§á1
+^	java:S125‹"<This block of commented-out lines of code should be removed.(Ôëàİùÿÿÿÿ8ƒ×§á1
+M	java:S106•"+Replace this use of System.out by a logger.(…¤–Àÿÿÿÿÿ8Ÿƒ×§á1
+H	java:S106™"+Replace this use of System.out by a logger.(Ñ‡§Í8 ƒ×§á1
+M	java:S106"+Replace this use of System.out by a logger.(÷Ã’ûûÿÿÿÿ8¡ƒ×§á1
+^	java:S125œ"<This block of commented-out lines of code should be removed.(ıÇ¨æúÿÿÿÿ8¡ƒ×§á1
+M	java:S106"+Replace this use of System.out by a logger.(åëÕÈıÿÿÿÿ8¡ƒ×§á1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(»ÑüŒÿÿÿÿÿ8¡ƒ×§á1
+M	java:S106 "+Replace this use of System.out by a logger.(ÂÎ•ºùÿÿÿÿ8¡ƒ×§á1
+G	java:S106¡"+Replace this use of System.out by a logger.(Ïº‘&8¡ƒ×§á1

@@ -1,0 +1,11 @@
+
+`
+java:S1854"ERemove this useless assignment to local variable "creditCardNumber2".(À°“†şÿÿÿÿ
+Q
+java:S1481"6Remove this unused "creditCardNumber2" local variable.(À°“†şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ùò¤
+@	java:S106	"+Replace this use of System.out by a logger.(×œİ»
+E	java:S106"+Replace this use of System.out by a logger.(ôÓªØøÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(‹ÃìÍûÿÿÿÿ8Ëÿ¿Ç½1
+T
+java:S1144("7Remove this unused private "isValidCreditCard1" method.(¢¦ŒÌ8ÓœÇ½1

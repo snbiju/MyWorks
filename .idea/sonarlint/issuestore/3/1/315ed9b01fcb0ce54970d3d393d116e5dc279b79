@@ -1,0 +1,10 @@
+
+W
+java:S1854/"5Remove this useless assignment to local variable "x".(×ğŞüÿÿÿÿ8¯ÂôÂ½1
+H
+java:S1481/"&Remove this unused "x" local variable.(×ğŞüÿÿÿÿ8¯ÂôÂ½1
+G	java:S1065"+Replace this use of System.out by a logger.(º¼É°8°ÂôÂ½1
+V
+java:S3400;"9Remove this method and declare a constant for this value.(”·³›8Ü±ñÂ½1
+S
+java:S11729"1Remove this unused method parameter "expression".(Øê×ıÿÿÿÿ8İ±ñÂ½1

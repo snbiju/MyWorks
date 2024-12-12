@@ -1,0 +1,19 @@
+
+
+java:S1488†"cImmediately return this expression instead of assigning it to the temporary variable "endPosition".(¸û«8¶ùõ‡2
+
+java:S1488•"cImmediately return this expression instead of assigning it to the temporary variable "endPosition".(É½êá8¸ùõ‡2
+]
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ8Ûúõ‡2
+N
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ8Íûõ‡2
+X	java:S125""<This block of commented-out lines of code should be removed.(†ÉÂ8Ïûõ‡2
+]	java:S125$"<This block of commented-out lines of code should be removed.(Ïç­ùÿÿÿÿ8Ğûõ‡2
+]	java:S125&"<This block of commented-out lines of code should be removed.(ù‡é…ùÿÿÿÿ8Ñûõ‡2
+G	java:S106,"+Replace this use of System.out by a logger.(Ñ‰¦8Öûõ‡2
+G	java:S106-"+Replace this use of System.out by a logger.(¬ê°í8Ùûõ‡2
+G	java:S106."+Replace this use of System.out by a logger.(´ûçÔ8ßûõ‡2
+L	java:S1061"+Replace this use of System.out by a logger.(îòóõúÿÿÿÿ8äûõ‡2
+]	java:S1255"<This block of commented-out lines of code should be removed.(£—ìâüÿÿÿÿ8íûõ‡2
+]	java:S125H"<This block of commented-out lines of code should be removed.(£—ìâüÿÿÿÿ8ïûõ‡2
+]	java:S125`"<This block of commented-out lines of code should be removed.(£—ìâüÿÿÿÿ8úûõ‡2

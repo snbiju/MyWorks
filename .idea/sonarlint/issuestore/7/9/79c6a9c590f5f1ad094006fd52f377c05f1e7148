@@ -1,0 +1,11 @@
+
+r
+java:S1104)"UMake maxLength a static final constant or non-public and provide accessors if needed.(¶öïˆ8ÑçöØÃ1
+L
+java:S1444)"/Make this "public static maxLength" field final(¶öïˆ8ö÷ØÃ1
+Y
+java:S4973-"<Strings and Boxed types should be compared using "equals()".(Õ©Ì÷8ÓçöØÃ1
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ã‰
+G	java:S106N"+Replace this use of System.out by a logger.(ğï†£8ÁïŞØÃ1
+O
+java:S1068'"-Remove this unused "maxZigZag" private field.(š™ü¶øÿÿÿÿ8ıÒöØÃ1

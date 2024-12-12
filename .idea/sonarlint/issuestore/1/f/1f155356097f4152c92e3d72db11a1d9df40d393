@@ -1,0 +1,11 @@
+
+c
+java:S2259+"HA "NullPointerException" could be thrown; "getSeason()" can return null.(öÂùÏøÿÿÿÿ
+@	java:S106#"+Replace this use of System.out by a logger.(û„ö‡
+E	java:S106$"+Replace this use of System.out by a logger.(Á³­Üÿÿÿÿÿ
+S
+java:S16126"=Replace this lambda with method reference 'Match::getScore2'.(Õúì÷
+Q	java:S1259"<This block of commented-out lines of code should be removed.(‰‡Ìã
+X
+java:S1612;"=Replace this lambda with method reference 'Match::getScore1'.(¢Ãé§ûÿÿÿÿ
+>	java:S108N")Either remove or fill this block of code.(”ı¾

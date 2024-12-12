@@ -1,0 +1,6 @@
+
+G	java:S1060"+Replace this use of System.out by a logger.(ÈÁö¤8Ö»ŸÓ¨2
+S
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8êêªÓ¨2
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ëêªÓ¨2

@@ -1,0 +1,11 @@
+
+k
+java:S1192D"IDefine a constant instead of duplicating this literal "BOUNDIES" 4 times.(žâšÏûÿÿÿÿ8Þ®™Úˆ1
+d
+java:S1192I"GDefine a constant instead of duplicating this literal "CRUNCH" 3 times.(íŒÏ©8ß®™Úˆ1
+j
+java:S1192>"HDefine a constant instead of duplicating this literal "SNIKERS" 5 times.(¡ÑŠ£ÿÿÿÿÿ8á®™Úˆ1
+L
+java:S1172"*Remove this unused method parameter "min".(’£¢øùÿÿÿÿ8—¯™Úˆ1
+]	java:S125."<This block of commented-out lines of code should be removed.(…Ðë€øÿÿÿÿ8¥¯™Úˆ1
+G	java:S106O"+Replace this use of System.out by a logger.(‰šë8¯¯™Úˆ1

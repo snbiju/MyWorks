@@ -1,0 +1,16 @@
+
+Q
+java:S3740s"/Provide the parametrized type for this generic.(êÇ³ˆûÿÿÿÿ8©õôÁ½1
+Y
+java:S4973O"<Strings and Boxed types should be compared using "equals()".(Î»²”8£ïòÁ½1
+Y
+java:S4973w"<Strings and Boxed types should be compared using "equals()".(œÀ©ó8òĞûÁ½1
+L
+java:S11978"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ªïòÁ½1
+L
+java:S1197;"*Move the array designators [] to the type.(¡ºçüÿÿÿÿ8®ïòÁ½1
+G	java:S106?"+Replace this use of System.out by a logger.(ìë³›8¯ïòÁ½1
+C
+java:S1659K"!Declare "ans" on a separate line.(¼ƒØúÿÿÿÿ8°ïòÁ½1
+G
+java:S1197C"*Move the array designators [] to the type.(Ù£­½8°ïòÁ½1

@@ -1,0 +1,17 @@
+
+z
+java:S1319l"dThe type of "list" should be an interface such as "List" rather than the implementation "ArrayList".(é²Ä¸
+E
+java:S1197"*Move the array designators [] to the type.(öœ¬Éúÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(öœ¬Éúÿÿÿÿ
+Œ
+java:S2159"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(°Âª¿øÿÿÿÿ
+@
+java:S1197N"*Move the array designators [] to the type.(è½öö
+o
+java:S3012Q"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(•Êî‰
+‡
+java:S2159V"qUse "Arrays.equals(array1, array2)" or the "==" operator instead of using the "Object.equals(Object obj)" method.(Ùã¯ 
+@	java:S106e"+Replace this use of System.out by a logger.(ÌÁ£™
+E	java:S106i"+Replace this use of System.out by a logger.(×èèÃþÿÿÿÿ

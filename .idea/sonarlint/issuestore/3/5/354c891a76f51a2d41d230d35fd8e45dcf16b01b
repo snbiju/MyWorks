@@ -1,0 +1,10 @@
+
+c
+java:S1192%"FDefine a constant instead of duplicating this literal "Apple" 3 times.(ÁÂæ8€£ÄÓğ1
+c
+java:S1192'"FDefine a constant instead of duplicating this literal "Melon" 7 times.(ô­Ì’8€£ÄÓğ1
+d
+java:S1192&"GDefine a constant instead of duplicating this literal "Banana" 4 times.(ªú­‹8£ÄÓğ1
+L	java:S106N"+Replace this use of System.out by a logger.(É—ı…üÿÿÿÿ8Ò£ÄÓğ1
+G	java:S106O"+Replace this use of System.out by a logger.(Íµ¬İ8Ó£ÄÓğ1
+L	java:S106P"+Replace this use of System.out by a logger.(œš¢ùÿÿÿÿ8Ó£ÄÓğ1

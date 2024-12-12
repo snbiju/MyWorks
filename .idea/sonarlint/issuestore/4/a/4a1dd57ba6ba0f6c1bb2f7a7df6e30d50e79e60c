@@ -1,0 +1,16 @@
+
+e
+java:S1192m"HDefine a constant instead of duplicating this literal "Hundred" 3 times.(˜æ8æ¾â¦á1
+[
+java:S18543"9Remove this useless assignment to local variable "input".(Ï„ÁÑÿÿÿÿÿ8ï¿â¦á1
+L
+java:S14813"*Remove this unused "input" local variable.(Ï„ÁÑÿÿÿÿÿ8ğ¿â¦á1
+]	java:S125C"<This block of commented-out lines of code should be removed.(×ˆİıÿÿÿÿ8ñ¿â¦á1
+]	java:S125o"<This block of commented-out lines of code should be removed.(ş«¹‹ùÿÿÿÿ8ó¿â¦á1
+W
+java:S2864œ"4Iterate over the "entrySet" instead of the "keySet".(ŸßÉ©ıÿÿÿÿ8÷¿â¦á1
+Y	java:S125¼"<This block of commented-out lines of code should be removed.(’Ÿîè8ù¿â¦á1
+Y	java:S125¿"<This block of commented-out lines of code should be removed.(á¤¶¯8ù¿â¦á1
+G	java:S106Á"+Replace this use of System.out by a logger.(÷§Ÿ=8ù¿â¦á1
+a
+java:S1858Á"D"filterWord" returns a string, there's no need to call "toString()".(÷§Ÿ=8ú¿â¦á1

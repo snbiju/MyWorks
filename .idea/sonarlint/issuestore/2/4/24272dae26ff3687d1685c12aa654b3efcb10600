@@ -1,0 +1,10 @@
+
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ÿ³ÉÚúÿÿÿÿ8î¸¨¾½1
+U
+java:S1854"8Remove this useless assignment to local variable "diff".(à†áµ8ï¸¨¾½1
+a
+java:S1659"DDeclare "maxDiff" and all following declarations on a separate line.(¦òä¢8ï¸¨¾½1
+X	java:S125"<This block of commented-out lines of code should be removed.(ò¢’Ê8ð¸¨¾½1
+P
+java:S1144"3Remove this unused private "computeMaxDiff" method.(Ø„®ª8ð¸¨¾½1

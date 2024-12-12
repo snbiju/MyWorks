@@ -1,0 +1,20 @@
+
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¹ˆõ¿ıÿÿÿÿ8»¯öğâ1
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¶ÉØ¡8÷‚ôğâ1
+G	java:S106"+Replace this use of System.out by a logger.(‚¿Ã8ü‚ôğâ1
+L	java:S106"+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ8ü‚ôğâ1
+L	java:S106"+Replace this use of System.out by a logger.(¹ˆõ¿ıÿÿÿÿ8ı‚ôğâ1
+d
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(¹ˆõ¿ıÿÿÿÿ8ü‚ôğâ1
+G	java:S106"+Replace this use of System.out by a logger.(¶ÉØ¡8ş‚ôğâ1
+_
+java:S1612"BReplace this lambda with method reference 'Comparable::compareTo'.(¶ÉØ¡8Ã¯öğâ1
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(åç…Šúÿÿÿÿ8ı‚ôğâ1
+L	java:S106"+Replace this use of System.out by a logger.(†·§ÿÿÿÿÿ8·Òõğâ1
+L	java:S106"+Replace this use of System.out by a logger.(ô¾’àÿÿÿÿÿ8¼ñâ1
+L	java:S106"+Replace this use of System.out by a logger.(¥·µñûÿÿÿÿ8¸Ëƒñâ1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ş‚ôğâ1

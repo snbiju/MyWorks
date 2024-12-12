@@ -1,0 +1,46 @@
+
+d
+java:S1192
+"GDefine a constant instead of duplicating this literal "Mumbai" 3 times.(³õ¥8óÁõ¤ß1
+g
+java:S1192"JDefine a constant instead of duplicating this literal "Karnataka" 4 times.(œâœó8ôÁõ¤ß1
+t
+java:S1192
+"WDefine a constant instead of duplicating this literal "Mechanical Engineering" 4 times.(³õ¥8ôÁõ¤ß1
+w
+java:S1192"UDefine a constant instead of duplicating this literal "Computer Engineering" 3 times.( ÎŸüÿÿÿÿ8ôÁõ¤ß1
+m
+java:S3655O"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÓÜ„•8‡Âõ¤ß1
+r
+java:S3655:"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(‚ ¨Üùÿÿÿÿ8‡Âõ¤ß1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Âõ¤ß1
+G	java:S106"+Replace this use of System.out by a logger.(ÚíÇæ8Âõ¤ß1
+L	java:S106"+Replace this use of System.out by a logger.(şµ³¹şÿÿÿÿ8Âõ¤ß1
+G	java:S106!"+Replace this use of System.out by a logger.(å¼”¥8Âõ¤ß1
+^
+java:S1612$"<Replace this lambda with method reference 'Student::getAge'.(è¯øÿÿÿÿÿ8Âõ¤ß1
+G	java:S106%"+Replace this use of System.out by a logger.(¦õ«Š8‘Âõ¤ß1
+o
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8‘Âõ¤ß1
+d
+java:S1612'"GReplace this lambda with method reference 'Student::getDepartmantName'.(áÒ¢î8‘Âõ¤ß1
+G	java:S106)"+Replace this use of System.out by a logger.(ûû¥‹8’Âõ¤ß1
+L	java:S106-"+Replace this use of System.out by a logger.(€ ¹âÿÿÿÿÿ8’Âõ¤ß1
+t
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(øÑì«úÿÿÿÿ8“Âõ¤ß1
+F	java:S1060"+Replace this use of System.out by a logger.(æÊ†P8“Âõ¤ß1
+o
+java:S62043"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8“Âõ¤ß1
+G	java:S1064"+Replace this use of System.out by a logger.(Š´—ü8”Âõ¤ß1
+L	java:S1068"+Replace this use of System.out by a logger.(ß¼ñÊüÿÿÿÿ8•Âõ¤ß1
+L	java:S106="+Replace this use of System.out by a logger.(Õ°™Áøÿÿÿÿ8–Âõ¤ß1
+t
+java:S6204@"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¯Ã™úÿÿÿÿ8–Âõ¤ß1
+G	java:S106A"+Replace this use of System.out by a logger.(ÌÏ¼¡8—Âõ¤ß1
+G	java:S106E"+Replace this use of System.out by a logger.(‘ÁŠ8˜Âõ¤ß1
+L	java:S106I"+Replace this use of System.out by a logger.(¹¥İıÿÿÿÿ8™Âõ¤ß1
+o
+java:S6204L"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8šÂõ¤ß1
+G	java:S106M"+Replace this use of System.out by a logger.(ŒáÕ8šÂõ¤ß1
+L	java:S106P"+Replace this use of System.out by a logger.(Ü‹ú´şÿÿÿÿ8›Âõ¤ß1

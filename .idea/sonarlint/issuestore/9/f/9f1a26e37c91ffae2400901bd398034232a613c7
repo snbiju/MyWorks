@@ -1,0 +1,37 @@
+
+g
+java:S1192<"JDefine a constant instead of duplicating this literal "user_ids" 10 times.(ô¡ğ8®ºî¢2
+g
+java:S1192A"KDefine a constant instead of duplicating this literal "created_at" 9 times.(üÌ_8®ºî¢2
+]	java:S125"<This block of commented-out lines of code should be removed.(œÅ§Îıÿÿÿÿ8·®ºî¢2
+G	java:S1068"+Replace this use of System.out by a logger.(Ì£×8¹®ºî¢2
+L	java:S106c"+Replace this use of System.out by a logger.(ˆ‹œÇûÿÿÿÿ8Ã®ºî¢2
+I
+java:S3599h",Use another way to initialize this instance.(ÆÅ´8½®ºî¢2
+v
+java:S1171h"YMove the contents of this initializer to a standard constructor or to field initializers.(ÆÅ´8¾®ºî¢2
+I
+java:S3599l",Use another way to initialize this instance.(ÆÅ´8¾®ºî¢2
+v
+java:S1171l"YMove the contents of this initializer to a standard constructor or to field initializers.(ÆÅ´8¿®ºî¢2
+I
+java:S3599p",Use another way to initialize this instance.(ÆÅ´8¿®ºî¢2
+v
+java:S1171p"YMove the contents of this initializer to a standard constructor or to field initializers.(ÆÅ´8¿®ºî¢2
+I
+java:S3599t",Use another way to initialize this instance.(ÆÅ´8À®ºî¢2
+v
+java:S1171t"YMove the contents of this initializer to a standard constructor or to field initializers.(ÆÅ´8À®ºî¢2
+I
+java:S3599{",Use another way to initialize this instance.(ÆÅ´8Á®ºî¢2
+v
+java:S1171{"YMove the contents of this initializer to a standard constructor or to field initializers.(ÆÅ´8Á®ºî¢2
+I
+java:S3599",Use another way to initialize this instance.(ÆÅ´8Â®ºî¢2
+v
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÆÅ´8Â®ºî¢2
+J
+java:S3599ƒ",Use another way to initialize this instance.(ÆÅ´8Â®ºî¢2
+w
+java:S1171ƒ"YMove the contents of this initializer to a standard constructor or to field initializers.(ÆÅ´8Ã®ºî¢2
+H	java:S106"+Replace this use of System.out by a logger.(ºß¸8îˆ»î¢2

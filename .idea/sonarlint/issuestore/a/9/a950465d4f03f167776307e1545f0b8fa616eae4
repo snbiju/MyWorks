@@ -1,0 +1,25 @@
+
+i
+java:S1192$"GDefine a constant instead of duplicating this literal "banana" 3 times.(îˆíÚÿÿÿÿÿ8õè¡Ìû1
+\
+java:S1854Ø"9Remove this useless assignment to local variable "count".(ìÑéÉøÿÿÿÿ8œé¡Ìû1
+L	java:S106"+Replace this use of System.out by a logger.(ãÑ¥ßùÿÿÿÿ8é¡Ìû1
+G	java:S106"+Replace this use of System.out by a logger.(Êß¥ñ8Ÿé¡Ìû1
+L	java:S106("+Replace this use of System.out by a logger.(æíáÊşÿÿÿÿ8 é¡Ìû1
+L	java:S1067"+Replace this use of System.out by a logger.(Ê¤Û–ûÿÿÿÿ8¡é¡Ìû1
+G	java:S106C"+Replace this use of System.out by a logger.(‚¨Ö§8¢é¡Ìû1
+L	java:S106H"+Replace this use of System.out by a logger.(ÎèÜ•ıÿÿÿÿ8£é¡Ìû1
+G	java:S106P"+Replace this use of System.out by a logger.(³ˆĞ„8£é¡Ìû1
+L	java:S106Y"+Replace this use of System.out by a logger.(³š¾ğùÿÿÿÿ8¤é¡Ìû1
+G	java:S106e"+Replace this use of System.out by a logger.(ÎªğÃ8¦é¡Ìû1
+L	java:S106l"+Replace this use of System.out by a logger.(íÈòüÿÿÿÿ8¦é¡Ìû1
+F	java:S106z"+Replace this use of System.out by a logger.(ÛÈÇC8§é¡Ìû1
+H	java:S106­"+Replace this use of System.out by a logger.(Ê¹óš8«é¡Ìû1
+M
+java:S1481Ø"*Remove this unused "count" local variable.(ìÑéÉøÿÿÿÿ8°é¡Ìû1
+M	java:S106ç"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8±é¡Ìû1
+M	java:S106ò"+Replace this use of System.out by a logger.(öãÚØÿÿÿÿÿ8²é¡Ìû1
+p
+java:S6204ú"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ëñ»­8²é¡Ìû1
+H	java:S106ı"+Replace this use of System.out by a logger.(œÀƒ¢8²é¡Ìû1
+H	java:S106…"+Replace this use of System.out by a logger.(¥°¸8³é¡Ìû1

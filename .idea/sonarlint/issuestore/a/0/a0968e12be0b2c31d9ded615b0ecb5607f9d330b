@@ -1,0 +1,31 @@
+
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ßß¤ıÿÿÿÿ8üå›Ä¼1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ßß¤ıÿÿÿÿ8ıå›Ä¼1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ßß¤ıÿÿÿÿ8ıå›Ä¼1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ßß¤ıÿÿÿÿ8ıå›Ä¼1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¿ı¦ÿÿÿÿÿ8Ûú›Ä¼1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¿ı¦ÿÿÿÿÿ8Ûú›Ä¼1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¿ı¦ÿÿÿÿÿ8Ûú›Ä¼1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â¿ı¦ÿÿÿÿÿ8Ûú›Ä¼1
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘üÀ8èåŸÄ¼1
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘üÀ8èåŸÄ¼1
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘üÀ8èåŸÄ¼1
+m	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹‘üÀ8èåŸÄ¼1
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò«°¶8æı£Ä¼1
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò«°¶8æı£Ä¼1
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò«°¶8æı£Ä¼1
+m	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò«°¶8æı£Ä¼1
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÎŞÇ8İ°Ä¼1
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÎŞÇ8İ°Ä¼1
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÎŞÇ8İ°Ä¼1
+m	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÎŞÇ8İ°Ä¼1
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍ8³“¹Ä¼1
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍ8³“¹Ä¼1
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍ8³“¹Ä¼1
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÍ8³“¹Ä¼1
+‰
+java:S4144_"lUpdate this method so that its implementation is not identical to "getMaxAdditionalDinersCount2" on line 53.(ò«°¶8Ïƒ¤Ä¼1
+E
+java:S1172F"(Remove this unused method parameter "N".(¹‘üÀ8ŠéŸÄ¼1
+H	java:S106¯"+Replace this use of System.out by a logger.(ãÄÙé8ªá°Ä¼1
+M	java:S106°"+Replace this use of System.out by a logger.(şÖ•ëøÿÿÿÿ8«á°Ä¼1

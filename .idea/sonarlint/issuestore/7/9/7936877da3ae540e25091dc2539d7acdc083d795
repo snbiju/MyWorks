@@ -1,0 +1,9 @@
+
+k
+java:S1149P"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+M
+java:S1854I"7Remove this useless assignment to local variable "len".(‘ş€
+>
+java:S1481I"(Remove this unused "len" local variable.(‘ş€
+E	java:S106y"+Replace this use of System.out by a logger.(öòîæûÿÿÿÿ
+E	java:S106z"+Replace this use of System.out by a logger.(÷œººşÿÿÿÿ

@@ -1,0 +1,23 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(Ã“œ¶üÿÿÿÿ8¡Ò°ÝŽ2
+Q
+java:S3740"/Provide the parametrized type for this generic.(Í’ò ûÿÿÿÿ8¢Ò°ÝŽ2
+L
+java:S3740"/Provide the parametrized type for this generic.(çÒÂ„8¢Ò°ÝŽ2
+L
+java:S3740"/Provide the parametrized type for this generic.(çÒÂ„8¢Ò°ÝŽ2
+Q
+java:S3740"/Provide the parametrized type for this generic.(²¿Ù¢üÿÿÿÿ8¢Ò°ÝŽ2
+K
+java:S37405"/Provide the parametrized type for this generic.(ÆéÜ&8¢Ò°ÝŽ2
+n
+java:S1192"LDefine a constant instead of duplicating this literal "121.1.23.34" 6 times.(ïïØ“þÿÿÿÿ8¢Ò°ÝŽ2
+m	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤‚ïï8£Ò°ÝŽ2
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†å÷ì8£Ò°ÝŽ2
+F	java:S106"+Replace this use of System.out by a logger.(ð÷†T8«Ó°ÝŽ2
+L	java:S106"+Replace this use of System.out by a logger.(¥‚Þºýÿÿÿÿ8¬Ó°ÝŽ2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(†å÷ì8¬Ó°ÝŽ2
+I
+java:S1128",Remove this unused import 'java.util.regex'.(£‘¬Þ8²Ó°ÝŽ2

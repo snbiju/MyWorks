@@ -1,0 +1,64 @@
+
+Z
+java:S1854D"=Remove this useless assignment to local variable "totalDays".(•óÌÏ8Ç„İõò1
+\
+java:S18542"?Remove this useless assignment to local variable "currentTime".(©ïğ¼8¾¹İõò1
+Z
+java:S1854S"8Remove this useless assignment to local variable "sql4".(—Ù¶úÿÿÿÿ8‰ÚÜõò1
+b
+java:S1854Q"@Remove this useless assignment to local variable "newReceiptNo".(šƒ’¹ùÿÿÿÿ8‰ÚÜõò1
+_
+java:S1854G"=Remove this useless assignment to local variable "startDate".(ÀÇ”²şÿÿÿÿ8ŠÚÜõò1
+U
+java:S1854b"8Remove this useless assignment to local variable "sql6".(„‚Àé8¾¹İõò1
+b
+java:S1854`"@Remove this useless assignment to local variable "newReceiptNo".(šƒ’¹ùÿÿÿÿ8¿¹İõò1
+Z
+java:S1854["8Remove this useless assignment to local variable "sql5".(¬ÅÇáıÿÿÿÿ8¿¹İõò1
+_
+java:S1854V"=Remove this useless assignment to local variable "startDate".(ÀÇ”²şÿÿÿÿ8¿¹İõò1
+a
+java:S1854l"?Remove this useless assignment to local variable "currentDate".(÷°²ºüÿÿÿÿ8Œ–ËÑò1
+a
+java:S1854k"?Remove this useless assignment to local variable "currentTime".(Ìëïßøÿÿÿÿ8–ËÑò1
+
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8À¹İõò1
+L	java:S106-"+Replace this use of System.out by a logger.(ã¯Í€ûÿÿÿÿ8®–ËÑò1
+M
+java:S14812"0Remove this unused "currentTime" local variable.(©ïğ¼8Ò–ËÑò1
+K
+java:S1481D".Remove this unused "totalDays" local variable.(•óÌÏ8Ñ„İõò1
+P
+java:S1481G".Remove this unused "startDate" local variable.(ÀÇ”²şÿÿÿÿ8”ÚÜõò1
+X	java:S125H"<This block of commented-out lines of code should be removed.(¾àú8Ã¸Üõò1
+S
+java:S1481Q"1Remove this unused "newReceiptNo" local variable.(šƒ’¹ùÿÿÿÿ8”ÚÜõò1
+K
+java:S1481S")Remove this unused "sql4" local variable.(—Ù¶úÿÿÿÿ8•ÚÜõò1
+]	java:S125T"<This block of commented-out lines of code should be removed.(®‡ıüÿÿÿÿ8•ÚÜõò1
+P
+java:S1481V".Remove this unused "startDate" local variable.(ÀÇ”²şÿÿÿÿ8Í¹İõò1
+X	java:S125W"<This block of commented-out lines of code should be removed.(Şö¦8Ò„İõò1
+K
+java:S1481[")Remove this unused "sql5" local variable.(¬ÅÇáıÿÿÿÿ8Î¹İõò1
+]	java:S125\"<This block of commented-out lines of code should be removed.(¥ã‘Íüÿÿÿÿ8Î¹İõò1
+S
+java:S1481`"1Remove this unused "newReceiptNo" local variable.(šƒ’¹ùÿÿÿÿ8Ï¹İõò1
+F
+java:S1481b")Remove this unused "sql6" local variable.(„‚Àé8Ï¹İõò1
+]	java:S125c"<This block of commented-out lines of code should be removed.(«üÒäûÿÿÿÿ8Ï¹İõò1
+R
+java:S1481k"0Remove this unused "currentTime" local variable.(Ìëïßøÿÿÿÿ8Ğ¹İõò1
+R
+java:S1481l"0Remove this unused "currentDate" local variable.(÷°²ºüÿÿÿÿ8Ó–ËÑò1
+L	java:S106s"+Replace this use of System.out by a logger.(„åƒĞÿÿÿÿÿ8Ö–ËÑò1
+W
+java:S3400"9Remove this method and declare a constant for this value.(Øÿ¶Ñ8ä–ËÑò1
+S
+java:S1172‹"6Remove these unused method parameters "sql", "params".(Ò·ş%8è–ËÑò1
+T
+java:S1172"6Remove these unused method parameters "sql", "params".(Æœ«·8ë–ËÑò1
+\
+java:S3400—"9Remove this method and declare a constant for this value.(òà‰—ûÿÿÿÿ8ì–ËÑò1
+Y
+java:S1172•"6Remove these unused method parameters "sql", "params".(Á¿Íùÿÿÿÿ8í–ËÑò1

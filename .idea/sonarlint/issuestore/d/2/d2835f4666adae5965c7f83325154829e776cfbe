@@ -1,0 +1,12 @@
+
+R
+java:S1854["5Remove this useless assignment to local variable "k".(½òâ‡8­²ÕÁ1
+Z
+java:S1854M"8Remove this useless assignment to local variable "smap".(æ¤´ÿÿÿÿÿ8®²ÕÁ1
+K
+java:S1481M")Remove this unused "smap" local variable.(æ¤´ÿÿÿÿÿ8¯²ÕÁ1
+X	java:S125N"<This block of commented-out lines of code should be removed.(üÓò8¯²ÕÁ1
+C
+java:S1481["&Remove this unused "k" local variable.(½òâ‡8°²ÕÁ1
+G	java:S106^"+Replace this use of System.out by a logger.(Ğ€ï‰8°²ÕÁ1
+]	java:S125\"<This block of commented-out lines of code should be removed.(“Ú£°ıÿÿÿÿ8°²ÕÁ1

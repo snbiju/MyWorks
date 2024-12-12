@@ -1,0 +1,13 @@
+
+S
+java:S2589R"7Remove this expression which always evaluates to "true"(éª‚J8ÕŽ”ºÑ1
+M
+java:S1172-"+Remove this unused method parameter "endX".(ƒü¹”ÿÿÿÿÿ8Ú Î¹Ñ1
+^
+java:S6201R"BReplace this instanceof check and cast with 'instanceof King king'(éª‚J8áŽ”ºÑ1
+e
+java:S4201R"IRemove this unnecessary null check; "instanceof" returns false for nulls.(éª‚J8Ý Î¹Ñ1
+e
+java:S4201^"IRemove this unnecessary null check; "instanceof" returns false for nulls.(Ð¨‘&8Þ Î¹Ñ1
+Q
+java:S1144"/Remove this unused private "initialize" method.(Øÿéêúÿÿÿÿ8ß Î¹Ñ1

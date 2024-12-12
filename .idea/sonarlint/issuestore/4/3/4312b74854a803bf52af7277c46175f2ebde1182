@@ -1,0 +1,6 @@
+
+[
+java:S1155,">Use isEmpty() to check whether the collection is empty or not.(™ÀÑœ8šò²ª•2
+G	java:S1065"+Replace this use of System.out by a logger.(öþ¹¿8‚–²ª•2
+G	java:S106@"+Replace this use of System.out by a logger.(›æñ€8…–²ª•2
+L	java:S106B"+Replace this use of System.out by a logger.(†Ó¬Ðûÿÿÿÿ8…–²ª•2

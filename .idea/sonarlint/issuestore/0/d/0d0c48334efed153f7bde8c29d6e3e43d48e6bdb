@@ -1,0 +1,14 @@
+
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÌäÉÕùÿÿÿÿ8ğïæÎ„2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌäÉÕùÿÿÿÿ8ıïæÎ„2
+G	java:S106"+Replace this use of System.out by a logger.(çË“Ì8şïæÎ„2
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(Ê±¡Ä8ÿïæÎ„2
+R
+java:S1854
+"5Remove this useless assignment to local variable "c".(úÔâŠ8ÿïæÎ„2
+C
+java:S1481
+"&Remove this unused "c" local variable.(úÔâŠ8€ğæÎ„2
+F	java:S106"+Replace this use of System.out by a logger.(ƒÚáB8€ğæÎ„2

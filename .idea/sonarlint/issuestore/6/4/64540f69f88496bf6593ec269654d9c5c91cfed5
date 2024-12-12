@@ -1,0 +1,13 @@
+
+”
+java:S1488S"rImmediately return this expression instead of assigning it to the temporary variable "absoluteDiagonalDifference".(˜Þ½Ìþÿÿÿÿ8Áë©âä1
+‰
+java:S1130Y"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8™Þ«âä1
+L	java:S106_"+Replace this use of System.out by a logger.(ýÓŽ­ûÿÿÿÿ8ô¬«âä1
+X	java:S125b"<This block of commented-out lines of code should be removed.(ÌøÎî8Îë©âä1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8›Þ«âä1
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8›Þ«âä1
+\
+java:S1128	"?Remove this unused import 'java.util.stream.Collectors.toList'.(ã‚ºÎ8›Þ«âä1

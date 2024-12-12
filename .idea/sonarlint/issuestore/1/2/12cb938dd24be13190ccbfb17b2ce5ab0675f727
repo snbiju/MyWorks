@@ -1,0 +1,7 @@
+
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+Y
+java:S1612">Replace this lambda with method reference 'Integer::parseInt'.(—ıÜûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ŸƒÖÀûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ßÖæ•øÿÿÿÿ

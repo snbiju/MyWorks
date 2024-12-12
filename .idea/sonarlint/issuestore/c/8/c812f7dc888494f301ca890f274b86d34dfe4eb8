@@ -1,0 +1,18 @@
+
+{
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈòÅÀüÿÿÿÿ8‘Â”À½1
+Q
+java:S1066p"/Merge this if statement with the enclosing one.(šåôûÿÿÿÿ8‘Â”À½1
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¨û8’Â”À½1
+m	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¨û8’Â”À½1
+r	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŸŞùÿÿÿÿ8’Â”À½1
+r	java:S117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠŸŞùÿÿÿÿ8’Â”À½1
+l	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¡ÔJ8’Â”À½1
+l	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¡ÔJ8’Â”À½1
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙõÖŠşÿÿÿÿ8’Â”À½1
+r	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙõÖŠşÿÿÿÿ8’Â”À½1
+X	java:S125"<This block of commented-out lines of code should be removed.(‘‹âİ8°Â”À½1
+L	java:S106y"+Replace this use of System.out by a logger.(æËéşÿÿÿÿ8µÂ”À½1
+L	java:S106z"+Replace this use of System.out by a logger.(ãÃ“éùÿÿÿÿ8¶Â”À½1
+G	java:S106{"+Replace this use of System.out by a logger.(ìŞäŸ8¶Â”À½1
+G	java:S106|"+Replace this use of System.out by a logger.(ÂÕš¶8¶Â”À½1

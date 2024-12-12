@@ -1,0 +1,18 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ïëà®ıÿÿÿÿ
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8§ÃÂ¾1
+E	java:S106"+Replace this use of System.out by a logger.(Áºİöøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÑƒÑÿÿÿÿÿ
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8§ÃÂ¾1
+E	java:S106"+Replace this use of System.out by a logger.(ƒìºÕùÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(·…»ş
+o
+java:S6204%"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8¨§ÃÂ¾1
+?	java:S106&"+Replace this use of System.out by a logger.(¾Şğ
+E	java:S106("+Replace this use of System.out by a logger.(¶ñÙÙúÿÿÿÿ
+o
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8²§ÃÂ¾1
+@	java:S106-"+Replace this use of System.out by a logger.(ô‹Ïî

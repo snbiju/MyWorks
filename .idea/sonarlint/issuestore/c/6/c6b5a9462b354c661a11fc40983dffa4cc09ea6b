@@ -1,0 +1,12 @@
+
+Q
+java:S3740O"/Provide the parametrized type for this generic.(ş¹×Öùÿÿÿÿ8±„îÊÄ1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ã‰8ÀŠÔÊÄ1
+v
+java:S30129"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(üƒÕ8áŒÔÊÄ1
+G	java:S106{"+Replace this use of System.out by a logger.(õÔÍ¦8çŒÔÊÄ1
+G	java:S106"+Replace this use of System.out by a logger.(ƒ¢à÷8çŒÔÊÄ1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(Ìˆ´øÿÿÿÿ8èŒÔÊÄ1
+G	java:S106†"+Replace this use of System.out by a logger.(ÇÇÇ8éŒÔÊÄ1
+V
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8ŸùõÊÄ1

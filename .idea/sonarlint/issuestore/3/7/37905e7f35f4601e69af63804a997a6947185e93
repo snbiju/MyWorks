@@ -1,0 +1,11 @@
+
+Y
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(†Ö·‚ÿÿÿÿÿ
+F
+java:S5413S")Verify that "remove()" is used correctly.(Áô©È8ªÅËÞÙ1
+‡
+java:S1130^"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+E	java:S106r"+Replace this use of System.out by a logger.(Îé·ñÿÿÿÿÿ
+E	java:S106s"+Replace this use of System.out by a logger.(§ºîÉÿÿÿÿÿ
+G	java:S106t"+Replace this use of System.out by a logger.(œîä±8¾ÅËÞÙ1
+F	java:S106u"+Replace this use of System.out by a logger.(Ûß’d8¿ÅËÞÙ1

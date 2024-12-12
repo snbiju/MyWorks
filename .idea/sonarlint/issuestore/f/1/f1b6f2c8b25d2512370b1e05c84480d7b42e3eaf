@@ -1,0 +1,14 @@
+
+d
+java:S1854,"BRemove this useless assignment to local variable "sortedWeathers".(Áò«şÿÿÿÿ8·¥õ2
+o
+java:S6204."RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8º¥õ2
+U
+java:S1481,"3Remove this unused "sortedWeathers" local variable.(Áò«şÿÿÿÿ8»¥õ2
+]	java:S1251"<This block of commented-out lines of code should be removed.(‚â©—ûÿÿÿÿ8»¥õ2
+X	java:S1253"<This block of commented-out lines of code should be removed.(ùÎ£Â8»¥õ2
+L	java:S1064"+Replace this use of System.out by a logger.(Ø‚Åßüÿÿÿÿ8¼¥õ2
+L	java:S1067"+Replace this use of System.out by a logger.(Ø‚Åßüÿÿÿÿ8¼¥õ2
+X	java:S1258"<This block of commented-out lines of code should be removed.(ùÎ£Â8¼¥õ2
+\
+java:S1128":Remove this unused import 'com.app.test.rateLimiter.Main'.(ÀßÂ­ıÿÿÿÿ8½¥õ2

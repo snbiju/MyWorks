@@ -1,0 +1,39 @@
+
+a
+java:S1192%"FDefine a constant instead of duplicating this literal "seven" 3 times.(í„ÌÖşÿÿÿÿ
+[
+java:S1192$"FDefine a constant instead of duplicating this literal "three" 3 times.(¬íÂU
+c
+java:S1192`"MDefine a constant instead of duplicating this literal " minutes to " 3 times.(™ªº°
+b
+java:S1192%"GDefine a constant instead of duplicating this literal "twelve" 3 times.(í„ÌÖşÿÿÿÿ
+b
+java:S1192%"GDefine a constant instead of duplicating this literal "eleven" 3 times.(í„ÌÖşÿÿÿÿ
+j
+java:S11929"ODefine a constant instead of duplicating this literal " minutes past " 5 times.(»›Ìşÿÿÿÿ
+a
+java:S1192%"FDefine a constant instead of duplicating this literal "eight" 3 times.(í„ÌÖşÿÿÿÿ
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„–ÄÜüÿÿÿÿ
+k	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñí»îşÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(í¨’
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰£Æ³úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ò§’Î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹û½´
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±ºøÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(å†ÏÒ
+E
+java:S1197H"*Move the array designators [] to the type.(Ñí»îşÿÿÿÿ
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(äİÊê8ğ‰œ´1
+m
+java:S3776h"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÙİºÙÿÿÿÿÿ
+S
+java:S1854‚"7Remove this useless assignment to local variable "rmn".(ÎÂÒ¨úÿÿÿÿ
+S
+java:S1854‘"7Remove this useless assignment to local variable "rmn".(ÎÂÒ¨úÿÿÿÿ
+D
+java:S1481‚"(Remove this unused "rmn" local variable.(ÎÂÒ¨úÿÿÿÿ
+D
+java:S1481‘"(Remove this unused "rmn" local variable.(ÎÂÒ¨úÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ôëàİùÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ

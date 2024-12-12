@@ -1,0 +1,5 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(Ÿà¯ûÿÿÿÿ8Èûæ¡­2
+L	java:S106"+Replace this use of System.err by a logger.(ÿó ©úÿÿÿÿ8Èûæ¡­2
+V
+java:S3400"9Remove this method and declare a constant for this value.(£ì’Ÿ8Éûæ¡­2

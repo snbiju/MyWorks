@@ -1,0 +1,15 @@
+
+`
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(ηρ±¬8ΊΙ«2
+e
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(Πΐϊϋÿÿÿÿ8ΊΙ«2
+m
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ηρ±¬8ξ‚Ι«2
+r
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Πΐϊϋÿÿÿÿ8ξ‚Ι«2
+G	java:S106"+Replace this use of System.out by a logger.(ηρ±¬8ΊΙ«2
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Άσυψÿÿÿÿ8ΊΙ«2
+L	java:S106"+Replace this use of System.out by a logger.(Πΐϊϋÿÿÿÿ8‘ΊΙ«2
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(ξΉσΉ8ό‚Ι«2

@@ -1,0 +1,19 @@
+
+L
+java:S1066%"/Merge this if statement with the enclosing one.(÷›ëŽ8žÌ¢¿½1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(µÎˆéüÿÿÿÿ8£Ì¢¿½1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(­Š¢÷ýÿÿÿÿ8¤Ì¢¿½1
+X
+java:S1854."6Remove this useless assignment to local variable "aa".(˜ëû²øÿÿÿÿ8¤Ì¢¿½1
+X	java:S125"<This block of commented-out lines of code should be removed.(›à‚8©Ì¢¿½1
+]	java:S125*"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8ªÌ¢¿½1
+I
+java:S1481."'Remove this unused "aa" local variable.(˜ëû²øÿÿÿÿ8ªÌ¢¿½1
+]	java:S1253"<This block of commented-out lines of code should be removed.(‘ÔÃáûÿÿÿÿ8ªÌ¢¿½1
+]	java:S1257"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ8«Ì¢¿½1
+L	java:S106<"+Replace this use of System.out by a logger.(óþ•þüÿÿÿÿ8«Ì¢¿½1
+L	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8«Ì¢¿½1
+P
+java:S1144".Remove this unused private "cavityMap" method.(­Š¢÷ýÿÿÿÿ8¬Ì¢¿½1

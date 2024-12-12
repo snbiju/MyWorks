@@ -1,0 +1,16 @@
+
+K
+java:S1121".Extract the assignment out of this expression.(…ÓŞö8È¼»1
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(…ÓŞö8‰‚¼»1
+R
+java:S1854"5Remove this useless assignment to local variable "a".(…ÓŞö8—‚¼»1
+X	java:S125"<This block of commented-out lines of code should be removed.(Õüø8›‚¼»1
+H
+java:S1481
+"&Remove this unused "a" local variable.(ª·¦°üÿÿÿÿ8 ‚¼»1
+G	java:S106"+Replace this use of System.out by a logger.(£ÆÏÁ8§‚¼»1
+L	java:S106"+Replace this use of System.out by a logger.(Õ·Î¾üÿÿÿÿ8­‚¼»1
+j
+java:S5738"HRemove this call to a deprecated method, it has been marked for removal.(ÚÙñ¯ıÿÿÿÿ8¹‚¼»1
+F	java:S106"+Replace this use of System.out by a logger.(®Îù	8Ä‚¼»1

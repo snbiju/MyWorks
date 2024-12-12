@@ -1,0 +1,9 @@
+
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø·±€
+7
+java:S5164"!Call "remove()" on "threadLocal".(îíù
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+>	java:S108")Either remove or fill this block of code.(ä ¹€
+E	java:S106"+Replace this use of System.out by a logger.(…ÝÚ®ÿÿÿÿÿ

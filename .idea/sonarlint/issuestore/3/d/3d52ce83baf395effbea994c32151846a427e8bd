@@ -1,0 +1,18 @@
+
+s	java:S127H"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8‚üÚÙÜ1
+Y
+java:S4973D"<Strings and Boxed types should be compared using "equals()".(“·­Ã8ƒüÚÙÜ1
+]	java:S125:"<This block of commented-out lines of code should be removed.(µ½–„ıÿÿÿÿ8šüÚÙÜ1
+]
+java:S1854b";Remove this useless assignment to local variable "numbers".(¨â÷‚ûÿÿÿÿ8üÚÙÜ1
+G	java:S106S"+Replace this use of System.out by a logger.(ÿ¡˜‘8üÚÙÜ1
+]	java:S125U"<This block of commented-out lines of code should be removed.(®£­üÿÿÿÿ8ŸüÚÙÜ1
+F	java:S106Y"+Replace this use of System.out by a logger.(Íª—;8ŸüÚÙÜ1
+F	java:S106]"+Replace this use of System.out by a logger.(¨ÌÇ
+8 üÚÙÜ1
+G	java:S106`"+Replace this use of System.out by a logger.(ËÌÏü8 üÚÙÜ1
+N
+java:S1481b",Remove this unused "numbers" local variable.(¨â÷‚ûÿÿÿÿ8¡üÚÙÜ1
+L	java:S106f"+Replace this use of System.out by a logger.(æÕ¼üøÿÿÿÿ8¡üÚÙÜ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ŠÈâÙÜ1

@@ -1,0 +1,23 @@
+
+K
+java:S3740"/Provide the parametrized type for this generic.(ĞÃáN8Ÿáş¢»1
+K
+java:S3740"/Provide the parametrized type for this generic.(ĞÃáN8Ÿáş¢»1
+Q
+java:S3740"/Provide the parametrized type for this generic.(Â¡úÿÿÿÿ8Ÿáş¢»1
+Q
+java:S37407"/Provide the parametrized type for this generic.(üæ»­üÿÿÿÿ8Ÿáş¢»1
+Q
+java:S37407"/Provide the parametrized type for this generic.(üæ»­üÿÿÿÿ8 áş¢»1
+
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ĞÃáN8 áş¢»1
+„
+java:S1319"hThe type of "planets" should be an interface such as "List" rather than the implementation "LinkedList".(ĞÃáN8 áş¢»1
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8¡áş¢»1
+“
+java:S1130"qRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from constructor's body.(î·¤»ÿÿÿÿÿ8·áş¢»1
+G	java:S106"+Replace this use of System.out by a logger.(¦™’«8ºáş¢»1
+G	java:S106""+Replace this use of System.out by a logger.(Êâ¨¾8½áş¢»1
+G	java:S106%"+Replace this use of System.out by a logger.(„û“ë8¾áş¢»1
+G	java:S106?"+Replace this use of System.out by a logger.(¥©›Í8Âáş¢»1

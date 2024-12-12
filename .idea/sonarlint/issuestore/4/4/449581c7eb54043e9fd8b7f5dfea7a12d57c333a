@@ -1,0 +1,7 @@
+
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—øãžýÿÿÿÿ8žø”À½1
+d
+java:S39739"GUse indentation to denote the code conditionally executed by this "if".(Ž¢õÃ8£ø”À½1
+]	java:S125"<This block of commented-out lines of code should be removed.(³ÌÔºûÿÿÿÿ8²ø”À½1
+L	java:S106A"+Replace this use of System.out by a logger.(Å£ùÁýÿÿÿÿ8µø”À½1
+G	java:S106B"+Replace this use of System.out by a logger.(ƒ½„û8¶ø”À½1

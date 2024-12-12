@@ -1,0 +1,17 @@
+
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ÄÁõÉ³1
+>
+java:S1643"Use a StringBuilder instead.(µ²‘Ÿÿÿÿÿÿ8ÅÁõÉ³1
+>
+java:S1643"Use a StringBuilder instead.(ÇÑÊÉÿÿÿÿÿ8ÇÁõÉ³1
+>
+java:S1643"Use a StringBuilder instead.(âæı¶úÿÿÿÿ8ÇÁõÉ³1
+>
+java:S1643"Use a StringBuilder instead.(ÇÑÊÉÿÿÿÿÿ8ÇÁõÉ³1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(à³°êøÿÿÿÿ
+E
+java:S1197
+"*Move the array designators [] to the type.(ãû—£ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æâ¾‚ÿÿÿÿÿ
+L
+java:S1197"*Move the array designators [] to the type.(ö†ê‰úÿÿÿÿ8ÃõÉ³1

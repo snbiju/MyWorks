@@ -1,0 +1,6 @@
+
+U
+java:S18545"8Remove this useless assignment to local variable "temp".(‹ÓÕ™8‰½¹Â½1
+F
+java:S14815")Remove this unused "temp" local variable.(‹ÓÕ™8Š½¹Â½1
+L	java:S106C"+Replace this use of System.out by a logger.(»ƒíÃùÿÿÿÿ8½¹Â½1

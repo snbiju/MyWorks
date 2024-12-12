@@ -1,0 +1,22 @@
+
+C
+java:S1110	"!Remove these useless parentheses.(â“è²ÿÿÿÿÿ8÷ßÚá–2
+=
+java:S1110
+"!Remove these useless parentheses.(ÍÏÄj8ÕÎÛá–2
+c
+java:S1854!"ARemove this useless assignment to local variable "originalValue".(ïÀÊìşÿÿÿÿ8Á·×á–2
+Z
+java:S1854"=Remove this useless assignment to local variable "original1".(Şï¥†8µöÙá–2
+K
+java:S1481".Remove this unused "original1" local variable.(Şï¥†8µöÙá–2
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Â‰ğÃ8Õ¾äá–2
+G	java:S106"+Replace this use of System.out by a logger.(Â‰ğÃ8¾’‚«•2
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(İŒ“¦8Õ¾äá–2
+G	java:S106"+Replace this use of System.out by a logger.(İŒ“¦8¿’‚«•2
+]	java:S125"<This block of commented-out lines of code should be removed.(¨×ö¢úÿÿÿÿ8¶öÙá–2
+T
+java:S1481!"2Remove this unused "originalValue" local variable.(ïÀÊìşÿÿÿÿ8Ã·×á–2
+X	java:S125""<This block of commented-out lines of code should be removed.(á’ Î8ŸéÖá–2

@@ -1,0 +1,30 @@
+
+o
+java:S1192—"LDefine a constant instead of duplicating this literal "121.1.23.34" 8 times.(¼Ã›„üÿÿÿÿ8êÆîŞ2
+o
+java:S1192"LDefine a constant instead of duplicating this literal "121.3.5.255" 4 times.(º÷‰Ùüÿÿÿÿ8êÆîŞ2
+l	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùØÌ
+8ëÆîŞ2
+n	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†å÷ì8ëÆîŞ2
+s	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íËé»ùÿÿÿÿ8¹ÏõŞ2
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íÚÅÊ8ëÆîŞ2
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‹¤§úÿÿÿÿ8ëÆîŞ2
+X	java:S125"<This block of commented-out lines of code should be removed.(±Şâ¬8ÂÈîŞ2
+G	java:S106="+Replace this use of System.err by a logger.(ïØºü8ÆÈîŞ2
+p
+java:S3776£"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(†å÷ì8ÍÈîŞ2
+u
+java:S3776×"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(íËé»ùÿÿÿÿ8´ÑõŞ2
+^
+java:S1854¡";Remove this useless assignment to local variable "reques1".(¼áşøÿÿÿÿ8ßÈîŞ2
+a
+java:S1854 "CRemove this useless assignment to local variable "blacklistedips1".(µ³™„8àÈîŞ2
+H	java:S106"+Replace this use of System.out by a logger.(Å–•ğ8âÈîŞ2
+M	java:S106“"+Replace this use of System.out by a logger.(‘¹Ÿ¦ùÿÿÿÿ8ãÈîŞ2
+M	java:S106š"+Replace this use of System.out by a logger.(¥‚Şºıÿÿÿÿ8äÈîŞ2
+M	java:S106"+Replace this use of System.out by a logger.(©‡‹ÿÿÿÿÿ8äÈîŞ2
+R
+java:S1481 "4Remove this unused "blacklistedips1" local variable.(µ³™„8åÈîŞ2
+O
+java:S1481¡",Remove this unused "reques1" local variable.(¼áşøÿÿÿÿ8åÈîŞ2
+H	java:S106¢"+Replace this use of System.out by a logger.(Å–•ğ8åÈîŞ2
